@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies Test Task</string>
+    <string name="key_api">a65890fdf9b390b8837042ae15480da5</string>
+    <string name="base_url">http://api.themoviedb.org/3/</string>
+    <string name="genre">Genre:\u0020 </string>
+    <string name="overview">Overview:\u0020 </string>
+    <string name="releaseDate">Release date:\u0020 </string>
+    <string name="search">Search</string>
+</resources>
