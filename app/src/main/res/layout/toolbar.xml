@@ -22,14 +22,15 @@
 
         <EditText
             android:id="@+id/editText"
-            android:cursorVisible="true"
-            android:textCursorDrawable="@null"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="#FFFFFF"
+            android:cursorVisible="true"
+            android:drawableStart="@drawable/ic_baseline_search_24"
             android:hint="@string/search"
             android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
-            android:drawableStart="@drawable/ic_baseline_search_24"
+            android:textCursorDrawable="@null"
             tools:layout_editor_absoluteX="14dp"
             tools:layout_editor_absoluteY="4dp">
 
